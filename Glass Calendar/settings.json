@@ -1,0 +1,23 @@
+{
+  "calendars": [],
+  "_calendar_example": {
+    "name": "Personal",
+    "color": "#60CDFF",
+    "url": "https://calendar.google.com/calendar/ical/.../basic.ics"
+  },
+  "days_ahead": 7,
+  "refresh_minutes": 15,
+  "time_format": "auto",
+  "width": 340,
+  "max_height": 620,
+  "opacity": 0.8,
+  "accent": "auto",
+  "layer": "desktop",
+  "locked": false,
+  "blur": false,
+  "show_empty_days": true,
+  "position": [
+    1170,
+    30
+  ]
+}
