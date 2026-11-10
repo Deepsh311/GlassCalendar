@@ -20,8 +20,8 @@ A translucent "next 7 days" calendar widget for Windows 10/11, styled to match t
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/glass-calendar.git
-cd glass-calendar
+git clone https://github.com/<your-username>/GlassCalendar.git
+cd GlassCalendar
 pip install PySide6 icalendar recurring-ical-events tzdata
 ```
 
